@@ -1,5 +1,4 @@
 {
-  "username": "CODE-INAYAT",
   "widgets": [
     {
       "widgetId": "header",
@@ -11657,7 +11656,7 @@
       },
       "config": {
         "hideBorder": true,
-        "animationType": "typewriter",
+        "animationType": "scroll",
         "animationPreviewKey": 8,
         "hideDecorations": true
       },
@@ -11682,7 +11681,12 @@
           "github",
           "gmail",
           "linkedin"
-        ]
+        ],
+        "links": {
+          "github": "https://github.com/CODE-INAYAT",
+          "gmail": "mailto:it.inayat2005@gmail.com",
+          "linkedin": "https://www.linkedin.com/in/inayatullashaikh"
+        }
       },
       "locked": false,
       "visible": true,
@@ -11700,6 +11704,5 @@
     "themeMode": "dark",
     "templateStyle": "native"
   },
-  "templateId": "terminal",
-  "profileSlug": "default"
+  "templateId": "terminal"
 }
