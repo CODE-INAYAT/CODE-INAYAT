@@ -1,6 +1,6 @@
 <a href="https://gitascii.com">
   <img
-    src="https://gitascii.com/api/CODE-INAYAT?v=1788364742740"
+    src="https://gitascii.com/api/CODE-INAYAT?v=1788365128377"
     alt="GitAscii Widget"
     width="100%"
   />
